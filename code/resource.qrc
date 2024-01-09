@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qrc/LoginBack.jpg</file>
+        <file>qrc/RegistBack.jpg</file>
+        <file>qrc/ChangePassBack.jpg</file>
+        <file>qrc/button_close.png</file>
+        <file>qrc/button_close_hover.png</file>
+        <file>qrc/button_min.png</file>
+        <file>qrc/button_min_hover.png</file>
+        <file>qrc/class.ico</file>
+        <file>qrc/Head.png</file>
+        <file>qrc/page.jpg</file>
+    </qresource>
+</RCC>
